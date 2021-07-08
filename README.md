@@ -9,7 +9,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 <br />
 
-My name is [Alex](https://hoyby.github.io/)! 
+My name is Alex! 
 I'm a undergrad computer science student at NTNU in Norway. Looking to improve my coding skills and expand my stack!
 
 - Looking for projects to collaborate
