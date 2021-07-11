@@ -1,11 +1,13 @@
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 
 <a href="https://www.linkedin.com/in/alex-høyby/">
   <img align="left" alt="Alex's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Hoyby.Hoyby)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="30px" src="https://visitor-badge.glitch.me/badge?page_id=Hoyby.Hoyby)" />
+</a>
 
 <br />
 
@@ -16,7 +18,7 @@ I'm a undergrad computer science student at NTNU in Norway. Looking to improve m
 - Ask me anything, I'm happy to help!
 
 
-**Languages and tools:**
+## **Languages and tools:**
 
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
@@ -26,9 +28,6 @@ I'm a undergrad computer science student at NTNU in Norway. Looking to improve m
 <code><img height="20" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
 
-
-
-
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
@@ -37,5 +36,12 @@ I'm a undergrad computer science student at NTNU in Norway. Looking to improve m
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></code>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoyby&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoyby&show_icons=true&theme=dark&layout=compact)
+<br>
+<div style="width: 100%; display: flex">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=Hoyby&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoyby&show_icons=true&theme=dark&layout=compact" />
+  </a>
+</div>
