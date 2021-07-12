@@ -1,22 +1,24 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-
+<div>
+  <h2> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+    <a href="https://visitor-badge.glitch.me/badge?page_id=Hoyby.Hoyby)">
+      <img align="right" height="30px" src="https://visitor-badge.glitch.me/badge?page_id=Hoyby.Hoyby)" />
+    </a>
+  </h2>
+</div>
 
 <a href="https://www.linkedin.com/in/alex-høyby/">
   <img align="left" alt="Alex's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="30px" src="https://visitor-badge.glitch.me/badge?page_id=Hoyby.Hoyby)" />
-</a>
+<br/>
 
-<br />
+<br/>
 
 My name is Alex! 
 I'm a undergrad computer science student at NTNU in Norway. Looking to improve my coding skills and expand my stack!
 
 - Looking for projects to collaborate
 - Ask me anything, I'm happy to help!
-
 
 ## **Languages and tools:**
 
