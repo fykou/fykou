@@ -40,10 +40,10 @@ I'm a undergrad computer science student at NTNU in Norway. Looking to improve m
 
 <br>
 <div style="width: 100%; display: flex">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=Hoyby&show_icons=true&theme=dark" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a>
     <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoyby&show_icons=true&theme=dark&layout=compact" />
   </a>
 </div>
