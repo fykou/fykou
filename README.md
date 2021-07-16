@@ -1,7 +1,7 @@
 <div>
   <h2> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
     <a href="https://visitor-badge.glitch.me/badge?page_id=Hoyby.Hoyby)">
-      <img align="right" height="30px" src="https://visitor-badge.glitch.me/badge?page_id=Hoyby.Hoyby)" />
+      <img align="right" height="22px" src="https://visitor-badge.glitch.me/badge?page_id=Hoyby.Hoyby)" />
     </a>
   </h2>
 </div>
