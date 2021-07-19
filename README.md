@@ -17,7 +17,7 @@
 My name is Alex! 
 I'm a undergrad computer science student at NTNU in Norway. Looking to improve my coding skills and expand my stack!
 
-- Looking for projects to collaborate
+- Looking for projects to collaborate! 
 - Ask me anything, I'm happy to help!
 
 ## **Languages and tools:**
