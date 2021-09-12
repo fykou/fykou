@@ -20,6 +20,8 @@ I'm a undergrad computer science student at NTNU in Norway. Looking to improve m
 - Looking for projects to collaborate! 
 - Ask me anything, I'm happy to help!
 
+My [portfolio](https://hoyby.github.io/).
+
 ## **Languages and tools:**
 
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
