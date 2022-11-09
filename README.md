@@ -12,10 +12,9 @@
 <br/>
 
 My name is Alex! 
-I'm a full-stack developer working for Sopra Steria!
+I'm a full-stack developer working for Sopra Steria Norway!
 
-- Looking for projects to collaborate! 
-- Ask me anything, I'm happy to help!
+Ask me anything, I'm happy to help!
 
 ## **Languages and tools that I use**
 
