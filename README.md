@@ -16,6 +16,8 @@ I'm a full-stack developer working for Sopra Steria Norway!
 
 Ask me anything, I'm happy to help!
 
+Contact me at contact@hoeyby.com
+
 ## **Languages and tools that I use**
 
 <div>
