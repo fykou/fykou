@@ -3,16 +3,15 @@
   </h2>
 </div>
 
-<a href="https://www.linkedin.com/in/hoyby/">
-  <img align="left" alt="Alex's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
 
 <br/>
 
 <br/>
 
-My name is Alex! 
-I'm a full-stack developer working at Sopra Steria Norway!
+I'm Hoyby! 
+
+I'm a proffesional full-stack developer with too many hobby projects on my hand.
 
 Ask me anything, I'm happy to help!
 
